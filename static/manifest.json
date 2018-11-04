@@ -1,0 +1,14 @@
+{
+  "short_name": "RS",
+  "name": "Ruchi Selection",
+  "icons": [{
+    "src": "logo.png",
+    "sizes": "126x126",
+    "type": "image/png"
+  }],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#272727",
+  "background_color": "#272727"
+}
